@@ -35,6 +35,7 @@ public class Main {
                 solution++;
             }
         }
+        //Solution is 1676
         return solution;
     }
 }
